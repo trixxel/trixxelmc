@@ -79,7 +79,7 @@ NOTE: These are extra damage sources beyond base stats
     Magical limit   :: Flexible
     Unique limit    :: Case by case
 
-NOTE: No items stats can total oer the maximum
+NOTE: No items stats can total over the maximum
 
 #######################################################
 3. Ability Slots Per Tier
