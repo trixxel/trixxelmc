@@ -123,5 +123,3 @@ Wand        :: Projectile or AOE
 Staff       :: Projectile or AOE
 Tome        :: Projectile or AOE
 Shield      :: 2 Blocks
-
-----
