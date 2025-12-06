@@ -1,0 +1,188 @@
+CHANGE LOG SUMMARY
+#######################################################
+
+Chase - Dreff_off - DrTinyGinger
+Version: 1.00.0
+Last Revision: 12/5/2025
+
+#######################################################
+1. Custom Tool Curves
+// Pickaxe, Axe, Shovel, Hoe, Shears etc //
+
+NOTE: Tools follow a "dual-scaling" system:
+- Efficiency Power (Speed of mining / harvesting)
+- Tool Damage (Combat Scaling)
+
+1.1 Tool Efficiency Curve by Tier
+    Common efficiency    :: 1.0-1.2
+    Uncommon efficiency  :: 1.2-1.4
+    Rare efficiency      :: 1.4-1.8
+    Very Rare efficiency :: 1.8-2.2
+    Legendary efficiency :: 2.2-2.8
+    Mythical efficiency  :: 2.8-3.4
+    Epic efficiency      :: 3.4-4.0
+    Magical efficiency   :: Flexible
+    Unique efficiency    :: Case by case
+
+1.2 Tool Damage Curve by Tier
+    Common damage    :: 2-3
+    Uncommon damage  :: 3-5
+    Rare damage      :: 5-7
+    Very Rare damage :: 7-10
+    Legendary damage :: 10-14
+    Mythical damage  :: 14-20
+    Epic damage      :: 20-38
+    Magical damage   :: Flexible
+    Unique damage    :: Case by case
+#######################################################
+2 Catalyst Curves (Main-Hand, Off-Hand, Any-Hand)
+2.1 Catalyst Base Damage Curve (if applicable)
+    Common damage    :: 1-2
+    Uncommon damage  :: 2-3
+    Rare damage      :: 3-6
+    Very Rare damage :: 6-10
+    Legendary damage :: 10-14
+    Mythical damage  :: 14-20
+    Epic damage      :: 20-26
+    Magical damage   :: Flexible
+    Unique damage    :: Case by case
+
+2.2 Catalyst Ability Power Curve
+    Common ability power    :: 2-3
+    Uncommon ability power  :: 3-5
+    Rare ability power      :: 5-8
+    Very Rare ability power :: 8-12
+    Legendary ability power :: 12-18
+    Mythical ability power  :: 18-26
+    Epic ability power      :: 26-35
+    Magical ability power   :: Flexible
+    Unique ability power    :: Case by case
+
+2.3 Catalyst Bonus Stat Limits
+// Amplifiers, Mana Regen, Cooldown Reduction, Aura Boost etc //
+    Common bonus stats    :: +1 to +2
+    Uncommon bonus stats  :: +2 to +3
+    Rare bonus stats      :: +3 to +4
+    Very Rare bonus stats :: +4 to +5
+    Legendary bonus stats :: +5 to +6
+    Mythical bonus stats  :: +6 to +7
+    Epic bonus stats      :: +7 to +8
+    Magical bonus stats   :: Flexible
+    Unique bonus stats    :: Case by case
+#######################################################
+3. Armor Curves
+3.1 Armor and Base Defense Curves
+3.1.1 HELMET Defense Curve by Tier
+        Common defense    :: 2-4
+        Uncommon defense  :: 4-6
+        Rare defense      :: 6-8
+        Very Rare defense :: 8-12
+        Legendary defense :: 12-16
+        Mythical defense  :: 16-20
+        Epic defense      :: 20-24
+        Magical defense   :: Flexible
+        Unique defense    :: Case by case
+
+3.1.2 CHESTPLATE Defense Curve by Tier
+        Common defense    :: 4-6
+        Uncommon defense  :: 6-10
+        Rare defense      :: 10-14
+        Very Rare defense :: 14-20
+        Legendary defense :: 20-28
+        Mythical defense  :: 28-36
+        Epic defense      :: 36-44
+        Magical defense   :: Flexible
+        Unique defense    :: Case by case
+
+3.1.3 LEGGINGS Defense Curve by Tier
+        Common defense    :: 3-5
+        Uncommon defense  :: 5-8
+        Rare defense      :: 8-12
+        Very Rare defense :: 12-18
+        Legendary defense :: 18-24
+        Mythical defense  :: 24-32
+        Epic defense      :: 32-40
+        Magical defense   :: Flexible
+        Unique defense    :: Case by case
+
+3.1.4 BOOTS Defense Curve by Tier
+        Common defense    :: 2-3
+        Uncommon defense  :: 3-5
+        Rare defense      :: 5-7
+        Very Rare defense :: 7-10
+        Legendary defense :: 10-14
+        Mythical defense  :: 14-18
+        Epic defense      :: 18-24
+        Magical defense   :: Flexible
+        Unique defense    :: Case by case
+
+3.2 Armor Bonus Stat Limits
+// Health Boost, Toughness, Knockback Resistance etc //
+    Common bonus stats    :: +1 to +2
+    Uncommon bonus stats  :: +2 to +3
+    Rare bonus stats      :: +3 to +4
+    Very Rare bonus stats :: +4 to +5
+    Legendary bonus stats :: +5 to +6
+    Mythical bonus stats  :: +6 to +7
+    Epic bonus stats      :: +7 to +8
+    Magical bonus stats   :: Flexible
+    Unique bonus stats    :: Case by case
+#######################################################
+4. Accessory + Talisman Curves 
+// Rings, Amulets, Belts, Trinkets etc //
+4.1 Accessory Stat Curves
+    Common stats   :: +1 to +2
+    Uncommon stats :: +2 to +3
+    Rare stats     :: +3 to +4 
+    Very Rare stats:: +4 to +5
+    Legendary stats:: +5 to +6
+    Mythical stats :: +6 to +7
+    Epic stats     :: +7 to +8
+    Magical stats  :: Flexible
+    Unique stats   :: Case by case
+
+4.2 Accessory Ability Slots
+    Common ability slots    :: None
+    Uncommon ability slots  :: 0 - 1 Minor
+    Rare ability slots      :: 1 Minor
+    Very Rare ability slots :: 1 Major or 2 Minor
+    Legendary ability slots :: 2 Major
+    Mythical ability slots  :: 2 Major + 1 Minor
+    Epic ability slots      :: Up to 4 Abilities
+    Magical ability slots   :: Flexible
+    Unique ability slots    :: Unlimited
+#######################################################
+5. Consumables 
+5.1 Comsumable Effect Potency Curves
+    Common potency    :: 
+    Uncommon potency  :: 
+    Rare potency      :: 
+    Very Rare potency :: 
+    Legendary potency :: 
+    Mythical potency  :: 
+    Epic potency      :: 
+    Magical potency   :: Flexible
+    Unique potency    :: Case by case
+
+5.2 Duration Curves (if applicable)
+    Common duration    :: 5-10 seconds
+    Uncommon duration  :: 10-15 seconds
+    Rare duration      :: 15-30 seconds
+    Very Rare duration :: 30-45 seconds
+    Legendary duration :: 45-60 seconds
+    Mythical duration  :: 90-120 seconds
+    Epic duration      :: 120-300 seconds
+    Magical duration   :: Flexible
+    Unique duration    :: Case by case
+#######################################################
+6. Gem Stones
+6.1 Gemstone Stat Curves
+    Common stats: +1
+    Uncommon stats: +2
+    Rare stats: +3-4
+    Very Rare stats: +4-6
+    Legendary stats: +6-8
+    Mythical stats: +8-12
+    Epic stats: +12-16
+    Magical stats: Flexible
+    Unique stats: Unlimited
