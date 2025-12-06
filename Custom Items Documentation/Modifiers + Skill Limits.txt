@@ -1,0 +1,72 @@
+CHANGE LOG SUMMARY
+#######################################################
+
+Chase - Dreff_off - DrTinyGinger
+Version: 1.00.0
+Last Revision: 12/5/2025
+
+#######################################################
+1. WEAPONS - Allowed Modifiers on WEAPONS
+    a. Critical Chance
+    b. Critical Damage
+    c. Attack Speed
+    d. Elemental Damage
+    e. Life Steal
+    f. AOE Cleave
+    g. Combo Scaling
+    h. ON-Hit Procs
+    i. Dash / Movement Skills
+    j. Stance Abilities (Dodge, Parry etc)
+    k. God-tier Enchantments
+#######################################################
+2. TOOLS - Allowed Modifiers on TOOLS
+    a. Mining Speed
+    b. Auto-Smelt
+    c. AOE Break
+    d. Durability Boost
+    e. Minor Combat Bonus
+    f. Additional Exp for Profession
+    g. God-tier Enchantments
+
+==| NOT ALLOWED |==
+    Heavy AOE Damage Skills
+    Trigger Abilities
+    Full Combat Modifiers
+#######################################################
+3. CATALYSTS - Allowed Modifiers on CATALYSTS
+    a. Cooldown Reduction
+    b. Mana,Health,Stamina, Hunger Regen (Resource Regen)
+    c. Spell Power
+    d. Healing Abilities
+    e. Buff / Enhancers
+#######################################################
+4. ARMOR - Allowed Modifiers on ARMOR
+    a. Health, Mana, Stamina, Oxygen Stats
+    b. Defence, Armor Stats
+    c. Damage Reuction %
+    d. Dodge Rating
+    e. Movement Speed, Movement Efficiency
+    f. Ability Cost Reduction (if applicable)
+    g. Elemental Resistance, Magic Resistance, etc
+
+==| NOT ALLOWED |==
+    Large Damage Amplifiers
+#######################################################
+5. ACCESSORIES - Allowed Modifiers on ACCESSORIES
+    a. Passive Boosts
+    b. Proc Effects
+    c. Luck-based Skills
+    d. Summoning or Orbiting Effects 
+    e. Resource Regen
+    f. Possible negative + positive dual buffs
+#######################################################
+6. CONSUMABLES - Allowed Modifier on CONSUMABLES
+    a. Timed Boosts
+    b. Heals
+    c. Regen
+    d. Burst Stat Boosts
+    e. Timed Abilities
+#######################################################
+7. GEMSTONES
+    a. All minor stats that fall under modifier caps
+    b. No trigger abilities except small procs
