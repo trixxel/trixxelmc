@@ -22,4 +22,4 @@ EXAMPLE: 'MMOItems Tier :: Crate Tier - Weight'
     Mythic    :: Legendary - 5
     Epic      :: Legendary - 1
     Magical   :: Not Obtainable in Crates
-    Unique    :: Not Obtainable in Crates
+    Unique    :: Not Obtainable in CratesRename-Item -LiteralPath "Survival Muliplayer [SMP SERVER]" -NewName "Survival Multiplayer [SMP SERVER]"
