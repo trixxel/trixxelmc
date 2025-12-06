@@ -1,0 +1,44 @@
+CHANGE LOG SUMMARY
+#######################################################
+
+Chase - Dreff_off - DrTinyGinger
+Version: 1.00.0
+Last Revision: 12/6/2025
+
+#######################################################
+
+NOTE: This docmentation shows the chances of drops from mobs and locations.
+
+1. MOB DROP ::: KEY SYSTEM
+
+11.1 Common Key
+Drops From  :: All hostile mobs
+Drop Chance :: 60% Per Mob Death
+
+11.2 Rare Key
+Drops From  :: All hostile mobs
+Drop Chance :: 20% Per Mob Death
+
+11.3 Legendary Key
+Drops From  :: All Hostile Mobs in the Nether
+Drop Chance :: 8% Per Mob
+
+#######################################################
+
+PLANNED FUTURE EXPANSION WITHIN THE CURRENT SEASON
+
+- ELITE MOBS
+- MINI BOSSES
+- WORLD BOSSES
+- SEASONAL MOBS
+- WORLD EVENTS
+
+#######################################################
+
+These values are intentionally generous for launch-phase progression. As more custom items and systems come online, drop rates may be adjusted to prevent:
+
+- Market saturation
+- Crate inflation
+- Overabundance of high-tier rewards
+
+Adjustments will always be logged in the versioned change log and communicated to staff.
