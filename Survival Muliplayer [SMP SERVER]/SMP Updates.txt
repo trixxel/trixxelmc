@@ -1,0 +1,25 @@
+CHANGE LOG SUMMARY
+#######################################################
+
+Chase - Dreff_off - DrTinyGinger
+Version: 1.00.0
+Last Revision: 12/6/2025
+
+#######################################################
+
+#############################
+
+1. CRATE BALANCING
+
+1.1 WEAPON CRATES BALANCING BY TIERS    
+EXAMPLE: 'MMOItems Tier :: Crate Tier - Weight'
+
+    Common    :: Common - 10
+    Uncommon  :: Uncommon - 10
+    Rare      :: Rare - 10
+    Very Rare :: Rare - 1
+    Legendary :: Legendary - 10
+    Mythic    :: Legendary - 5
+    Epic      :: Legendary - 1
+    Magical   :: Not Obtainable in Crates
+    Unique    :: Not Obtainable in Crates
