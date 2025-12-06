@@ -1,0 +1,11 @@
+
+--- TEMPLATE ---
+[2025-12-04] (Main Update Text Here)
+Category: Feature / Change / Fix / Update
+
+- list of changes
+- here
+- :D
+
+Staff: (name of manager that applied changes)
+-----------------------------------------
