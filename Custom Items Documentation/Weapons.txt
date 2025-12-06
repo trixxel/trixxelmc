@@ -8,7 +8,7 @@ Last Revision: 12/4/2025
 #######################################################
 1. Custom Items Base Damage Scaling Curves
 1.1 Standard Melee Curve by Tier
-// Sword, Axe, Dagger, Katana, Longsword //
+// Sword, Axe, Dagger, Katana, Longsword, Hammer //
     Common base damage    :: 4-6
     Uncommon base damage  :: 6-8
     Rare base damage      :: 8-12
