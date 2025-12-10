@@ -7,19 +7,29 @@ Last Revision: 12/6/2025
 
 #######################################################
 
-#############################
+INTRODUCTION TO INTERACTIONS GUIDES AND HELP
+############################################
 
-1. CRATE BALANCING
+== | Trixxel Guide NPC | ==
+The main Trixxel Guide NPC provides essential information for new and returning players, including:
 
-1.1 WEAPON CRATES BALANCING BY TIERS    
-EXAMPLE: 'MMOItems Tier :: Crate Tier - Weight'
+- Server rules
+- Warp locations
+- Brief explanations of major features
+- Discord link and community info
 
-    Common    :: Common - 10
-    Uncommon  :: Uncommon - 10
-    Rare      :: Rare - 10
-    Very Rare :: Rare - 1
-    Legendary :: Legendary - 10
-    Mythic    :: Legendary - 5
-    Epic      :: Legendary - 1
-    Magical   :: Not Obtainable in Crates
-    Unique    :: Not Obtainable in CratesRename-Item -LiteralPath "Survival Muliplayer [SMP SERVER]" -NewName "Survival Multiplayer [SMP SERVER]"
+This NPC acts as a general introduction to the server.
+
+== | Specialized Area Guides | ==
+Various regions now include specialized guide NPCs. These NPCs provide information specific to the area they are located in, such as local mechanics, features, or tips. Their purpose is to give players guidance that directly relates to the zone they are exploring.
+
+== | Quest NPCs | ==
+Quest NPCs have been introduced throughout the world. They offer quests, rewards, and additional progression paths. These NPCs help encourage exploration and provide more structured gameplay experiences.
+
+== | Vanguard NPCs (Class Swapping) | ==
+Vanguard NPCs allow players to switch between different classes. Players can adjust their playstyle and experiment with various builds without needing to start over.
+
+== | Rumor System | ==
+Some NPCs now share rumors. These may hint at hidden features, secret locations, or upcoming additions. Rumors are not always confirmed but may lead players to discover new things.
+
+TO BE CONTINUED
