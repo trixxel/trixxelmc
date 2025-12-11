@@ -2,12 +2,10 @@ CHANGE LOG SUMMARY
 #######################################################
 
 Chase - Dreff_off - DrTinyGinger
-Version: 1.00.0
-Last Revision: 12/6/2025
+Version: 1.00.1
+Last Revision: 12/11/2025
 
 #######################################################
-
-#############################
 
 1. CRATE BALANCING
 
@@ -23,3 +21,25 @@ EXAMPLE: 'MMOItems Tier :: Crate Tier - Weight'
     Epic      :: Legendary - 1
     Magical   :: Not Obtainable in Crates
     Unique    :: Not Obtainable in CratesRename-Item -LiteralPath "Survival Muliplayer [SMP SERVER]" -NewName "Survival Multiplayer [SMP SERVER]"
+
+#######################################################
+
+Chase - Dreff_off - DrTinyGinger
+Version: 1.00.2
+Last Revision: 12/11/2025
+
+#######################################################
+
+This update focuses on improving overall stability 
+and fixing several gameplay-impacting issues across Trixxel MC.
+
+This update focuses on improving overall stability and fixing several gameplay-impacting issues across Trixxel MC.
+
+### Fixes
+1. Fixed an issue where Bedrock players were unable to interact with NPCs, guides, or conversational prompts.
+2. Corrected a bug causing the Common Crate to grant boosters to all players in the world instead of the intended recipient.
+3. Resolved an issue preventing players from completing delivery quests.
+4. Fixed party system errors that blocked players from joining, creating, or managing parties.
+5. Resolved a bug that prevented players from opening the `/m` GUI menu.
+
+These fixes should provide a smoother and more consistent gameplay experience across the network.
