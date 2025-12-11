@@ -7,3 +7,15 @@ Last Revision: 12/11/2025
 
 #######################################################
 
+## Patch Notes – Bug Fix Update
+
+This update focuses on improving overall stability and fixing several gameplay-impacting issues across Trixxel MC.
+
+### Fixes
+1. Fixed an issue where Bedrock players were unable to interact with NPCs, guides, or conversational prompts.
+2. Corrected a bug causing the Common Crate to grant boosters to all players in the world instead of the intended recipient.
+3. Resolved an issue preventing players from completing delivery quests.
+4. Fixed party system errors that blocked players from joining, creating, or managing parties.
+5. Resolved a bug that prevented players from opening the `/m` GUI menu.
+
+These fixes should provide a smoother and more consistent gameplay experience across the network.
