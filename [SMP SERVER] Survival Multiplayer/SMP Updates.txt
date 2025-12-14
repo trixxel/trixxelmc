@@ -12,11 +12,11 @@ Last Revision: 12/13/2025
 
 1. Fixed bug where players received idex error on delivery quests.
 2. Fixed bug where players could not quit quests.
+3. Fixed bug where players could not use Ender's Key Token
 
 # Reported Issues
 
 1. Random item duplication when dying or reconnecting to the server. [R]
-2. Ender Key Token - Won from the World QoL Crate - Does not allow players to open enderchest [R]
 
 #######################################################
 Chase - Dreff_off - DrTinyGinger
