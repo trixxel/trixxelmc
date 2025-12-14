@@ -2,7 +2,7 @@ CHANGE LOG SUMMARY
 #######################################################
 
 Chase - Dreff_off - DrTinyGinger
-Version: 1.00.4
+Version: 1.00.3
 Last Revision: 12/13/2025
 
 [R] Replicatable
@@ -13,6 +13,31 @@ Last Revision: 12/13/2025
 
 1. Quest NPCs now provide access to **all quest steps** within a questline.  
    Players who previously quit or abandoned quests can now re-engage without being progression locked.
+
+2. Rebalanced **Mob Crate drop tables** to reduce the frequency of high-tier items.  
+   With Mob Crate key drops slightly nerfed, reward weights have been adjusted to maintain balance without making crates feel unrewarding.
+
+3. Updated **Master Weapon Crates** to use **10-level bracketed variants**.  
+   This prevents players from receiving unusable weapons and better aligns crate rewards with MMOCore’s progression system.
+
+4. Fixed an issue where mobs could drop **multiple crate keys** (e.g., common and rare) from a single kill.  
+   Drop table arguments now correctly restrict key drops to one per mob.
+
+5. Fixed an issue where **skill and attribute points** were dropping far more frequently than intended.  
+   Drop rates are now correctly aligned with expected values.
+
+6. Fixed an issue where players were **unable to build in purchased shops**.  
+   WorldGuard region priority was corrected and regions were recreated to restore proper build permissions.
+
+
+# Reported Issues
+
+1. Random item duplication when dying or reconnecting to the server. [R]
+
+2. **Bad Chat Token**  
+   Players may encounter an error where they are unable to communicate in chat.  
+   This appears to be caused by a temporary disruption between the player’s network and the Trixxel network, resulting in an invalid or broken chat token.
+
 
 #######################################################
 Chase - Dreff_off - DrTinyGinger
