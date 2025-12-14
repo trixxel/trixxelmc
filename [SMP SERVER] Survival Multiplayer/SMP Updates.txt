@@ -2,9 +2,26 @@ CHANGE LOG SUMMARY
 #######################################################
 
 Chase - Dreff_off - DrTinyGinger
+Version: 1.00.3
+Last Revision: 12/13/2025
+
+[R] Replicatable
+#######################################################
+
+# Patch Notes - Bug Fix Updates
+
+1. Fixed bug where players received idex error on delivery quests.
+2. Fixed bug where players could not quit quests.
+
+# Reported Issues
+
+1. Random item duplication when dying or reconnecting to the server. [R]
+2. Ender Key Token - Won from the World QoL Crate - Does not allow players to open enderchest [R]
+
+#######################################################
+Chase - Dreff_off - DrTinyGinger
 Version: 1.00.2
 Last Revision: 12/11/2025
-
 #######################################################
 
 # Patch Notes - Bug Fix Updates
@@ -18,7 +35,6 @@ Last Revision: 12/11/2025
 
 1. Random item duplication when dying.
 2. Delivery quests do not allow for players to deliver do to index error.
-
 
 #######################################################
 Chase - Dreff_off - DrTinyGinger
