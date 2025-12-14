@@ -2,21 +2,17 @@ CHANGE LOG SUMMARY
 #######################################################
 
 Chase - Dreff_off - DrTinyGinger
-Version: 1.00.3
+Version: 1.00.4
 Last Revision: 12/13/2025
 
 [R] Replicatable
+
 #######################################################
 
-# Patch Notes - Bug Fix Updates
+# Patch Notes – Bug Fix & Balance Updates
 
-1. Fixed bug where players received idex error on delivery quests.
-2. Fixed bug where players could not quit quests.
-3. Fixed bug where players could not use Ender's Key Token
-
-# Reported Issues
-
-1. Random item duplication when dying or reconnecting to the server. [R]
+1. Quest NPCs now provide access to **all quest steps** within a questline.  
+   Players who previously quit or abandoned quests can now re-engage without being progression locked.
 
 #######################################################
 Chase - Dreff_off - DrTinyGinger
