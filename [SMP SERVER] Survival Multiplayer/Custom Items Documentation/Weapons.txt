@@ -6,58 +6,9 @@ Version: 1.00.0
 Last Revision: 12/4/2025
 
 #######################################################
-1. Custom Items Base Damage Scaling Curves
-1.1 Standard Melee Curve by Tier
-// Sword, Axe, Dagger, Katana, Longsword, Hammer //
-    Common base damage    :: 4-6
-    Uncommon base damage  :: 6-8
-    Rare base damage      :: 8-12
-    Very Rare base damage :: 12-18
-    Legendary base damage :: 18-26
-    Mythical base damage  :: 26-32
-    Epic base damage      :: 32-40
-    Magical base damage   :: Flexible
-    Unique base damage    :: Case by case
 
-1.2 Heavy Weapons Curve by Tier
-// Greataxe, Greatsword, Halberd, Greathammer, Lance //
-    Common base damage    :: 7-9
-    Uncommon base damage  :: 9-12
-    Rare base damage      :: 12-18
-    Very Rare base damage :: 18-28
-    Legendary base damage :: 26-36
-    Mythical base damage  :: 36-48
-    Epic base damage      :: 40-60
-    Magical base damage   :: Flexible
-    Unique base damage    :: Case by case
-
-1.3 Light & Precision Curve by Tier
-// Dagger, Thrusting Sword, Whip, Gauntlets //
-    Common base damage    :: 2-4
-    Uncommon base damage  :: 4-6
-    Rare base damage      :: 6-10
-    Very Rare base damage :: 10-14
-    Legendary base damage :: 14-18
-    Mythical base damage  :: 18-24
-    Epic base damage      :: 24-30
-    Magical base damage   :: Flexible
-    Unique base damage    :: Case by case
-
-1.4 Ranged Weapons Curve by Tier
-// Bow, Crossbow, Musket, Wand, Staff, Tome, Catalyst //
-    Common base damage    :: 3-5
-    Uncommon base damage  :: 5-7
-    Rare base damage      :: 7-12
-    Very Rare base damage :: 12-18
-    Legendary base damage :: 18-25
-    Mythical base damage  :: 25-32
-    Epic base damage      :: 32-40
-    Magical base damage   :: Flexible
-    Unique base damage    :: Case by case
-#######################################################
-2. Custom Items Elemental & Modifier Bonus Limits
-2.1 Elemental Damage Additions
-// Wind, Earth, Fire, Ice, Darkness, Thunder, Water, Lightness //
+1. GLOBAL RULES
+==| Elemental Damage Addition (Extra Damage) |==
     Common elemental damage    :: 1-2
     Uncommon elemental damage  :: 2-4
     Rare elemental damage      :: 4-8
@@ -68,10 +19,10 @@ Last Revision: 12/4/2025
     Magical elemental damage   :: Flexible
     Unique elemental damage    :: 30-50
 
-NOTE: These are extra damage sources beyond base stats
+## These are additional damage sources, not part of base damage
 
-2.2 Percent-Based Modifiers MAXIMUMS
-// Critical Damage %, Attack Speed %, etc //
+==| PERCENT-BASED MODIFIERS (Total Cap Per Item) |==
+<Crit Damage %, Attack Speed, Additions (Extra Damage)>
     Common limit    :: 3-5
     Uncommon limit  :: 5-7
     Rare limit      :: 7-12
@@ -82,11 +33,10 @@ NOTE: These are extra damage sources beyond base stats
     Magical limit   :: Flexible
     Unique limit    :: Case by case
 
-NOTE: No items stats can total over the maximum
+## No items stats can total over the maximum
 
-#######################################################
-3. Ability Slots Per Tier
-// Right-click, Shift Right-Click, Left-Click, Triggers //
+==| ABILITY SLOTS BY TIER |==
+<Right-click, Shift Right-Click, Left-Click, Triggers>
     Common limit    :: None
     Uncommon limit  :: 0-1 Minor
     Rare limit      :: 1 Minor
@@ -97,29 +47,325 @@ NOTE: No items stats can total over the maximum
     Magical limit   :: Varies
     Unique limit    :: Unlimited
 
-NOTE: Some weapons may not follow this ruleset as some minor-
+## Some weapons may not follow this ruleset as some minor-
 abilities are combined to create a major ability.
+==================================================================
 
-#######################################################
-4. Weapon Reach MAXIMUMS
-Dagger      :: 2.5 Blocks
-Gauntlet    :: 2.5 Blocks
-Sword       :: 3 Blocks
-Katana      :: 4 Blocks
-Longsword   :: 3 Blocks
-Axe         :: 3 Blocks
-Spear       :: 4-5 Blocks
-Lance       :: 4-5 Blocks
-Halberd     :: 4-5 Blocks
-Greatsword  :: 3.5-4 Blocks
-Greataxe    :: 3.5-4 Blocks
-Whip        :: 5-6 Blocks
-Hammer      :: 2 Blocks - AOE 1.5r
-Greathammer :: 3 Blocks - AOE 2.5r
-Bow         :: Projectile Based
-Crossbow    :: Projectile Based
-Musket      :: Projectile Based
-Wand        :: Projectile or AOE
-Staff       :: Projectile or AOE
-Tome        :: Projectile or AOE
-Shield      :: 2 Blocks
+2. WEAPON SPECIFIC RULES
+
+==| DAGGER |==
+
+~ Base Damage : Light, Precision
+    Common    :: 2-4
+    Uncommon  :: 4-6
+    Rare      :: 6-10
+    Very Rare :: 10-14
+    Legendary :: 14-18
+    Mythical  :: 18-24
+    Epic      :: 24-30
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: 2.5
+==================================
+==| GAUNTLETS |==
+
+~ Base Damage : Light, Precision
+    Common    :: 2-4
+    Uncommon  :: 4-6
+    Rare      :: 6-10
+    Very Rare :: 10-14
+    Legendary :: 14-18
+    Mythical  :: 18-24
+    Epic      :: 24-30
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: 2.5
+==================================
+==| SWORD |==
+
+~ Base Damage : Standard Melee
+    Common    :: 4-6
+    Uncommon  :: 6-8
+    Rare      :: 8-12
+    Very Rare :: 12-18
+    Legendary :: 18-26
+    Mythical  :: 26-32
+    Epic      :: 32-40
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: 3
+==================================
+==| KATANA |==
+
+~ Base Damage : Standard Melee
+    Common    :: 4-6
+    Uncommon  :: 6-8
+    Rare      :: 8-12
+    Very Rare :: 12-18
+    Legendary :: 18-26
+    Mythical  :: 26-32
+    Epic      :: 32-40
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: 4
+==================================
+==| LONGSWORD |==
+
+~ Base Damage : Standard Melee
+    Common    :: 4-6
+    Uncommon  :: 6-8
+    Rare      :: 8-12
+    Very Rare :: 12-18
+    Legendary :: 18-26
+    Mythical  :: 26-32
+    Epic      :: 32-40
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: 3
+==================================
+==| AXE |==
+
+~ Base Damage : Standard Melee
+    Common    :: 4-6
+    Uncommon  :: 6-8
+    Rare      :: 8-12
+    Very Rare :: 12-18
+    Legendary :: 18-26
+    Mythical  :: 26-32
+    Epic      :: 32-40
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: 3
+==================================
+==| HAMMER |==
+
+~ Base Damage : Standard Melee
+    Common    :: 4-6
+    Uncommon  :: 6-8
+    Rare      :: 8-12
+    Very Rare :: 12-18
+    Legendary :: 18-26
+    Mythical  :: 26-32
+    Epic      :: 32-40
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: 2
+> AoE Radius Max: 1.5 Br
+==================================
+==| GREATHAMMER |==
+
+~ Base Damage : Heavy Weapon Curve
+    Common    :: 7-9
+    Uncommon  :: 9-12
+    Rare      :: 12-18
+    Very Rare :: 18-28
+    Legendary :: 26-36
+    Mythical  :: 36-48
+    Epic      :: 40-60
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: 3
+> AoE Radius Max: 2.5 Br
+==================================
+==| GREATSWORD |==
+
+~ Base Damage : Heavy Weapon Curve
+    Common    :: 7-9
+    Uncommon  :: 9-12
+    Rare      :: 12-18
+    Very Rare :: 18-28
+    Legendary :: 26-36
+    Mythical  :: 36-48
+    Epic      :: 40-60
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: 3.5 -> 4
+==================================
+==| GREATAXE |==
+
+~ Base Damage : Heavy Weapon Curve
+    Common    :: 7-9
+    Uncommon  :: 9-12
+    Rare      :: 12-18
+    Very Rare :: 18-28
+    Legendary :: 26-36
+    Mythical  :: 36-48
+    Epic      :: 40-60
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: 3.5 -> 4
+==================================
+==| HALBERD |==
+
+~ Base Damage : Heavy Weapon Curve
+    Common    :: 7-9
+    Uncommon  :: 9-12
+    Rare      :: 12-18
+    Very Rare :: 18-28
+    Legendary :: 26-36
+    Mythical  :: 36-48
+    Epic      :: 40-60
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: 4 -> 5
+==================================
+==| SPEAR |==
+
+~ Base Damage : Heavy Weapon Curve
+    Common    :: 7-9
+    Uncommon  :: 9-12
+    Rare      :: 12-18
+    Very Rare :: 18-28
+    Legendary :: 26-36
+    Mythical  :: 36-48
+    Epic      :: 40-60
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: 4 -> 5
+==================================
+==| LANCE |==
+
+~ Base Damage : Heavy Weapon Curve
+    Common    :: 7-9
+    Uncommon  :: 9-12
+    Rare      :: 12-18
+    Very Rare :: 18-28
+    Legendary :: 26-36
+    Mythical  :: 36-48
+    Epic      :: 40-60
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: 4 -> 5
+==================================
+==| WHIP |==
+
+~ Base Damage : Light, Precision
+    Common    :: 2-4
+    Uncommon  :: 4-6
+    Rare      :: 6-10
+    Very Rare :: 10-14
+    Legendary :: 14-18
+    Mythical  :: 18-24
+    Epic      :: 24-30
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: 5 -> 6
+==================================
+==| BOW |==
+
+~ Base Damage : Ranged Curve
+    Common    :: 3-5
+    Uncommon  :: 5-7
+    Rare      :: 7-12
+    Very Rare :: 12-18
+    Legendary :: 18-25
+    Mythical  :: 25-32
+    Epic      :: 32-40
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: Projectile Based
+==================================
+==| CROSSBOW |==
+
+~ Base Damage : Ranged Curve
+    Common    :: 3-5
+    Uncommon  :: 5-7
+    Rare      :: 7-12
+    Very Rare :: 12-18
+    Legendary :: 18-25
+    Mythical  :: 25-32
+    Epic      :: 32-40
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: Projectile Based
+==================================
+==| MUSKET |==
+
+~ Base Damage : Ranged Curve
+    Common    :: 3-5
+    Uncommon  :: 5-7
+    Rare      :: 7-12
+    Very Rare :: 12-18
+    Legendary :: 18-25
+    Mythical  :: 25-32
+    Epic      :: 32-40
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: Projectile Based
+==================================
+==| WAND |==
+
+~ Base Damage : Ranged Curve
+    Common    :: 3-5
+    Uncommon  :: 5-7
+    Rare      :: 7-12
+    Very Rare :: 12-18
+    Legendary :: 18-25
+    Mythical  :: 25-32
+    Epic      :: 32-40
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: Projectile or AoE Based
+==================================
+==| STAFF |==
+
+~ Base Damage : Ranged Curve
+    Common    :: 3-5
+    Uncommon  :: 5-7
+    Rare      :: 7-12
+    Very Rare :: 12-18
+    Legendary :: 18-25
+    Mythical  :: 25-32
+    Epic      :: 32-40
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: Projectile or AoE Based
+==================================
+==| TOME |==
+
+~ Base Damage : Ranged Curve
+    Common    :: 3-5
+    Uncommon  :: 5-7
+    Rare      :: 7-12
+    Very Rare :: 12-18
+    Legendary :: 18-25
+    Mythical  :: 25-32
+    Epic      :: 32-40
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: Projectile or AoE Based
+==================================
+==| SHIELD |==
+
+~ Base Damage : Light, Precision
+    Common    :: -
+    Uncommon  :: -
+    Rare      :: -
+    Very Rare :: -
+    Legendary :: -
+    Mythical  :: -
+    Epic      :: -
+    Magical   :: Flexible
+    Unique    :: Case by case
+
+> Range Max [ER]: 2
