@@ -1,4 +1,35 @@
 CHANGE LOG SUMMARY
+
+#######################################################
+Caden - den_v2.exe - Caden_kun
+Version: 1.00.4
+Last Revision: 01/01/2026
+
+[R] Replicatable
+
+#######################################################
+
+# Patch Notes - Major Bug fixes & Polishing Update
+
+1. Bad Chat Token Bug has been fixed.
+   Fix has been tested and applied across the entire Network.
+
+2. Native Server Version: 1.21.1 -> 1.21.10
+   You can now connect using 1.21.10. ViaVersion and GeyserMC has been updated to the latest version to accomodate newer versions to connect. (1.21.11+)
+
+3. Server IP Changed.
+   trixxel.com -> play.trixxel.com. This is for a future project. Stay tuned.
+
+4. Staff Chat Plugin Upgraded.
+   Staff Chat Plugin has been changed and upgraded, giving us the ability to send staff chat messages from in-game to Discord.
+
+5. Certain weapon Particiles with MMOItems caused Bedrock Players to crash.
+   This has been fixed. Updating GeyserMC has resolved this.
+
+# Reported Issues:
+
+None to Report
+
 #######################################################
 
 Chase - Dreff_off - DrTinyGinger
@@ -36,7 +67,7 @@ Last Revision: 12/13/2025
 
 2. **Bad Chat Token**  
    Players may encounter an error where they are unable to communicate in chat.  
-   This appears to be caused by a temporary disruption between the player’s network and the Trixxel network, resulting in an invalid or broken chat token.
+   This appears to be caused by a temporary disruption between the player’s network and the Trixxel network, resulting in an invalid or broken chat token. [R]
 
 
 #######################################################
