@@ -2,6 +2,29 @@ CHANGE LOG SUMMARY
 
 #######################################################
 Caden - den_v2.exe - Caden_kun
+Version: 1.00.5
+Last Revision: 03/01/2026
+
+[R] Replicatable
+
+#######################################################
+
+# Patch Notes - Server Lag Spike Fixes
+
+1. Added TPR(Random Teleport) Cooldown
+   Added a cooldown to prevent lag spikes. Players spam the /tpr command and cause tps to drop heavily.
+
+2. MMOInventory has been removed temporarily
+   Players have either lost items, or had items duped in the Custom Inventory. A Fix is being looked into and implemented.
+
+   
+# Reported Issues:
+
+1. White Mushroom Stems do not drop anything. [R]
+
+
+#######################################################
+Caden - den_v2.exe - Caden_kun
 Version: 1.00.4
 Last Revision: 01/01/2026
 
@@ -106,3 +129,30 @@ This update focuses on improving overall stability and fixing several gameplay-i
 5. Resolved a bug that prevented players from opening the `/m` GUI menu.
 
 These fixes should provide a smoother and more consistent gameplay experience across the network.
+
+
+TEMPLATE:
+
+#######################################################
+Name of Dev - Discord Username - Minecraft Username
+Version: 1.00.XX
+Last Revision: DD/MM/YYYY
+
+[R] Replicatable
+
+#######################################################
+
+# Patch Notes - Main Topic of Patches/Updates
+
+1. Patch/Update 1
+   Description of Update here
+
+2. Patch/Update 2
+   Description of Update here
+
+
+# Reported Issues:
+
+1. Reported issue after previous patch here.
+
+#######################################################
