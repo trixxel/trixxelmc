@@ -2,6 +2,27 @@ CHANGE LOG SUMMARY
 
 #######################################################
 Caden - den_v2.exe - Caden_kun
+Version: 1.00.6
+Last Revision: 04/01/2025
+
+[R] Replicatable
+
+#######################################################
+
+# Patch Notes - Updates to Quests & Bug Fixes
+
+1. Farming Quests not working.
+   Farming Quests have been phased out, while we are working on moving to a new Quest/jobs system.
+   This change is on our Highest Priority, as soon as testing is finished and development is complete, it will be rolled out to Production.
+
+
+# Reported Issues:
+
+1. Farming Quests Buggy. No Progression Made. [R]
+
+
+#######################################################
+Caden - den_v2.exe - Caden_kun
 Version: 1.00.5
 Last Revision: 03/01/2026
 
