@@ -1,9 +1,31 @@
 CHANGE LOG SUMMARY
+#######################################################
+Chase - Dreff_off - DrTinyGinger
+Version: 1.00.7
+Last Revision: 01/05/2026
+
+[R] Replicatable
+
+#######################################################
+
+# Patch Notes - Main Topic of Patches/Updates
+
+1. Inventory System Update - Duplication Resolved
+   Removed the custom inventory system in favor of slots the vanilla inventory.
+
+2. Backpacks Added
+   Added backpack plugin providing 105 extra slots (scrollable & sortable).
+   Backpack resource pack currently Java-only.
+   Bedrock resource pack is in development.
+
+# Reported Issues:
+
+1. Farming Quests Buggy. No Progression Made. [R]
 
 #######################################################
 Caden - den_v2.exe - Caden_kun
 Version: 1.00.6
-Last Revision: 04/01/2025
+Last Revision: 01/04/2026
 
 [R] Replicatable
 
@@ -24,7 +46,7 @@ Last Revision: 04/01/2025
 #######################################################
 Caden - den_v2.exe - Caden_kun
 Version: 1.00.5
-Last Revision: 03/01/2026
+Last Revision: 01/03/2026
 
 [R] Replicatable
 
