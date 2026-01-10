@@ -1,6 +1,35 @@
 CHANGE LOG SUMMARY
 #######################################################
 Chase - Dreff_off - DrTinyGinger
+Version: 1.00.8
+Last Revision: 01/10/2026
+
+NOTE THAT THESE CHANGES WILL TAKE EFFECT 1/10/2026 AN
+ANNOUNCEMENT WILL BE MADE WHEN THESE CHANGES TAKE AFFECT
+
+[R] Replicatable
+#######################################################
+
+# Patch Notes - Main Topic of Patches/Updates
+
+1. Quality of Life improvements to the /m command menu:
+   + Added TP Accept and TP Deny options
+   + Added Jobs Menu
+   + Added Balance Status icons
+2. Fixed a bug that prevented the Claims / Homes Menu icon from displaying in /m menu
+3. Slightly increased the drop rates of Common and Rare keys
+4. Began phasing out Profession Quests with the introduction of Jobs
+5. Major overhaul of economy pricing and sellable blocks
+   - Total sellable items: 320
+
+# Reported Issues:
+
+1. Farming quests are buggy — no progression occurs [R]
+2. Mushroom Stem cannot be farmed [R]
+3. Silk Touch does not function as intended [R]
+
+#######################################################
+Chase - Dreff_off - DrTinyGinger
 Version: 1.00.7
 Last Revision: 01/05/2026
 
