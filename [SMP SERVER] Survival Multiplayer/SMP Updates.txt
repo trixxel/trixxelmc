@@ -1,6 +1,30 @@
 CHANGE LOG SUMMARY
 #######################################################
 Chase - Dreff_off - DrTinyGinger
+Version: 1.00.9
+Last Revision: 1/15/2026
+
+[R] Replicatable
+
+#######################################################
+
+# Patch Notes - Main Topic of Patches/Updates
+
+1. Fixed Economy Sell List
+   Some items were not sellable even though they were on the economy sell list. Items that are listed are sellable.
+
+2. Fixed QoL Crate Drop Errors
+   Minor fix where some items were not dropping from crates even when won
+
+
+# Reported Issues:
+
+1. Farming quests are buggy — no progression occurs [R]
+2. Mushroom Stem cannot be farmed [R]
+3. Silk Touch does not function as intended [R]
+
+#######################################################
+Chase - Dreff_off - DrTinyGinger
 Version: 1.00.8
 Last Revision: 01/10/2026
 
@@ -208,7 +232,7 @@ TEMPLATE:
 #######################################################
 Name of Dev - Discord Username - Minecraft Username
 Version: 1.00.XX
-Last Revision: DD/MM/YYYY
+Last Revision: MM/DD/YYYY
 
 [R] Replicatable
 
