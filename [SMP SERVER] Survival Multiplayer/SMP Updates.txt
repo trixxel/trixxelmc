@@ -1,5 +1,43 @@
 CHANGE LOG SUMMARY
 #######################################################
+Name of Dev - Discord Username - Minecraft Username
+Version: 1.01.0
+Last Revision: 01/23/2026
+
+[R] Replicatable
+
+#######################################################
+
+# Patch Notes - Main Topic of Patches/Updates
+
+1. Jobs Patch
+Jobs experience was broken with MMOCore and was rewarding an excessive amount of EXP at higher job levels. EXP gains have now been reduced to 1/4 of the previous values for proper progression.
+
+2. Gem Stones **NEW ITEM / DROP**
+Gemstones will drop from certain mobs and can be socketed into player gear to provide themed effects based on the mob they were obtained from. Not all mobs will drop gems. Higher level mobs will have an increased chance to drop. Gems are rule based and do not drop with the same stats values every time the item is received.
+
+3. MCMMO **RETURNING FEATURE**
+MCMMO is returning to Trixxel to provide a more rewarding leveling experience. It will work alongside MMOCore to add more depth, skills, and quality-of-life systems to the overall grind.
+
+4. Menu Update 
+The /m menu will now include a Levels / Skills / Professions page that displays a summary of all MCMMO and MMOCore levels. Selecting a skill will explain how each system impacts gameplay and will run the /mctop command for that skill.
+
+5. Levelled Mobs Patch
+Mob difficulty has been rebalanced to create larger gaps between tiers, allowing difficulty to scale more evenly throughout the world. As players progress, mobs will become increasingly challenging. Mob drop tables have been revamped to support gemstones and keys at a highly increased drop rate.
+
+6. Artifacts **Alpha Run**
+We’ve begun a beta rollout of Artifacts into the mob drop system.  
+Drop sources are intentionally undisclosed. These Artifacts are designed to dramatically enhance core gameplay mining, movement, woodcutting, and more—with additional Artifacts planned for future releases.  
+
+For example, some Artifacts may allow players to shrink to a one block height, walk on water, gain night vision, or unlock other powerful enhancements.
+
+7. New Items + Class Additions
+   Mage Specific: Wands and Staffs
+   Tools: 4+ New Tools added to Tool Crate
+   Guns: 2 Guns added to Master Craft Crate
+   Mage Class: Can now be obtained by talking to the mage
+
+#######################################################
 Chase - Dreff_off - DrTinyGinger
 Version: 1.00.9
 Last Revision: 1/15/2026
