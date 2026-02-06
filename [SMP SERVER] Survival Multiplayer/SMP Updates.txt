@@ -1,6 +1,23 @@
 CHANGE LOG SUMMARY
 #######################################################
-Name of Dev - Discord Username - Minecraft Username
+Chase - Dreff_off - DrTinyGinger
+Version: 1.01.01
+Last Revision: 02/06/2026
+
+[R] Replicatable
+
+#######################################################
+
+# Patch Notes - Main Topic of Patches/Updates
+
+1. QoL Update - Vanilla Inventory
+Slots 12, 13, and 14 are no longer bound to custom inventory slots. Diamond hoes placed in these slots can now be freely removed, trashed, or dragged as intended.
+
+The Artifact Slot is correctly assigned to slot 11. When an artifact is placed in this slot, it will properly revert to Artifact Slot 1 as labeled. In some rare cases, it may still visually display as Glove Set, which is a known display issue.
+
+
+#######################################################
+Chase - Dreff_off - DrTinyGinger
 Version: 1.01.0
 Last Revision: 01/23/2026
 
